@@ -1,4 +1,4 @@
-namespace Fre {
+namespace Ggrgrggrgs {
 
     export function Encoder(Cnt: number) {
         let x = 0
