@@ -13,7 +13,7 @@ enum MyEnum {
 /**
  * Custom blocks
  */
-//% weight=100
+//% weight=100  icon=""
 namespace screenMagic {
     /**
      * TODO: describe your function here
