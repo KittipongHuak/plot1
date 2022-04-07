@@ -1,4 +1,4 @@
-namespace Ggrgrggrgs {
+namespace Sensor {
 
     export function Encoder(Cnt: number) {
         let x = 0
