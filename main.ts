@@ -7,7 +7,7 @@
  * Custom blocks
  */
 //% weight=200 color=#ff0000 icon="\uf0e7"
-namespace Sensor {
+namespace Fenrn {
     /**
      * สำหรับ นับค่า Encoder จากขา P8 
      */
